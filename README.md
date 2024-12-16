@@ -1,17 +1,17 @@
-#Hi there, I'm Bamdad!  
+# Hi there, I'm Bamdad!  
 
 Welcome to my GitHub profile! 🚀 Here's a bit about me:  
 
-##About Me  
+## About Me  
 - 🎓 **Aspiring Computational Neuroscientist** — passionate about neural modeling, brain-machine interfaces, and understanding the nervous system (even jellyfish! 🪼).  
 - 🧠 Currently learning and exploring **Python**, **HTML/CSS**, and **JavaScript**.  
 - 🌱 Dedicated to building small projects and honing my skills in web development and neuroscience-related tools.  
 
-##Current Goals  
+## Current Goals  
 - 🌐 Building a personal website and making it responsive.    
 - 🖥️ Open-sourcing my work and showcasing small but meaningful projects.  
 
-##How to Reach Me  
+## How to Reach Me  
 - GitHub: [@bamdad-kr](https://github.com/bamdad-kr)  
 - Email: [fz.krypton@gmail.com](mailto:fz.krypton@gmail.com)  
 - LinkedIn: [LinkedIn Profile (www.linkedin.com/in/bamdad-keshtkar)]  
