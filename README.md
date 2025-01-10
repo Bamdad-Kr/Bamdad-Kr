@@ -12,8 +12,8 @@ Welcome to my GitHub profile! 🚀 Here's a bit about me:
 - 🖥️ Open-sourcing my work and showcasing small but meaningful projects.  
 
 ## How to Reach Me  
-- GitHub: [@bamdad-kr](https://github.com/bamdad-kr)  
-- Email: [fz.krypton@gmail.com](mailto:fz.krypton@gmail.com)  
-- LinkedIn: [www.linkedin.com/in/bamdad-keshtkar]  
+- [GitHub](https://github.com/bamdad-kr)  
+- [Email](mailto:fz.krypton@gmail.com)  
+- [LinkedIn](www.linkedin.com/in/bamdad-keshtkar)
 
 Thanks for stopping by! Feel free to reach out. 🌟  
