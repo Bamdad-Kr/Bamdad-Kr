@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! 🚀 Here's a bit about me:  
 
 ## About Me  
-- 🎓 **Aspiring Computational Neuroscientist** — passionate about neural modeling, brain-machine interfaces, and understanding the nervous system (even jellyfish! 🪼).  
+- 🎓 **Aspiring CS Student** — passionate about neural modeling, brain-machine interfaces, and understanding the nervous system (even jellyfish! 🪼).  
 - 🧠 Currently learning and exploring **Python**, **HTML/CSS**, and **JavaScript**.  
-- 🌱 Dedicated to building small projects and honing my skills in web development and neuroscience-related tools.  
+- 🌱 Dedicated to building small projects and honing my skills in **web development** and neuroscience-related tools.  
 
 ## Current Goals  
 - 🌐 Building a personal website and making it responsive.    
